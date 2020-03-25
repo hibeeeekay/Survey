@@ -25,7 +25,7 @@ label input {display: none;}
 label span {border: 2px solid #ccc; width: 15px; height: 15px; position: absolute; overflow: hidden; line-height: 1; padding:5px; text-align: center; font-size: 10pt; left: 0; top: 50%; margin-top: -7.5px;}
 input:checked + span {background: #ccf; border-color: #ccf;}
 .lik{
- margin:100px;}
+ margin:90px;}
 
 footer{
     background-color: gray;
