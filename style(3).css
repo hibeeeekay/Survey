@@ -1,7 +1,7 @@
 body{
     background-color:White;
-    height: 100%;
-    width:auto;
+    height: auto;
+    width:100%;
    
     
 }
@@ -29,7 +29,7 @@ input:checked + span {background: #ccf; border-color: #ccf;}
 
 footer{
     background-color: gray;
-    margin-top: 420px ;
+     
     padding:10px ;
     
 }
