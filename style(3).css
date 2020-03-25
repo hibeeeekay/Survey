@@ -1,0 +1,90 @@
+body{
+    background-color:White;
+    height: 100%;
+    width:auto;
+   
+    
+}
+
+h1{
+    
+    color:red;
+    font-family: cursive;
+    font-size: 35px;
+    margin-top: px;
+}
+h2{
+    color: blue;
+    font-family: cursive;
+    font-size: 20px;
+}
+a{
+ text-decoration:none;}
+label{display: inline; padding: 5px; position: relative; padding-left: 20px;}
+label input {display: none;}
+label span {border: 2px solid #ccc; width: 15px; height: 15px; position: absolute; overflow: hidden; line-height: 1; padding:5px; text-align: center; font-size: 10pt; left: 0; top: 50%; margin-top: -7.5px;}
+input:checked + span {background: #ccf; border-color: #ccf;}
+.lik{
+ margin:100px;}
+
+footer{
+    background-color: gray;
+    margin-top: 420px ;
+    padding:10px ;
+    
+}
+@media screen and (max-width:640px){
+    html{
+        font-size: 14px;
+    }
+    body{
+        width: 100%;
+        height: auto;
+        background-color:white;
+        
+    }
+    
+    
+    h1{
+    
+        color:red;
+        font-family: cursive;
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    
+    h2{
+        font-family: cursive;
+        font-size: 20px;  
+    }   
+}
+@media screen and (min-width:768px){
+    html{
+        font-size: 20px;
+    }
+    body{
+        width: 100%;
+        height: auto;
+        background-image:url('https://hibeeeekay.github.io/RESTAURANT/image2.jpg');
+        background-size: 100%;
+        
+
+    
+    
+    h1{
+    
+        color:red;
+        font-family: cursive;
+        font-size:55px;
+        margin-right: 30px;
+        
+    }
+    
+    h2{
+        font-family: cursive;
+        font-size: 40px;  
+    }   
+}
+
+
+© 2020 GitHub, Inc.
