@@ -29,7 +29,7 @@ input:checked + span {background: #ccf; border-color: #ccf;}
 
 footer{
     background-color: gray;
-    margin-top:100px;
+    margin-bottom:0px;
     padding:10px ;
     
 }
